@@ -1,5 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/8BxejzXe)
-# Самостоятельная работа № 2
+# Использование статистических тестов для анализа данных
 
 В файле `mussl.csv` расположены данные об измерении длины (колонка `Length`) речных молюсков
 в нескольких озерах (колонки `Lake` и `Site`) в разные моменты времени (колонки `Day` и `Month`).
